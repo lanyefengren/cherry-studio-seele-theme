@@ -294,9 +294,6 @@ body::after {
 #content-container #messages {
     background-color: transparent;
     padding: 15px;
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
 }
 
 .message-content-container {
