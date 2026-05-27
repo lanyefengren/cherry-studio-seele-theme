@@ -1,4 +1,4 @@
-# Black.css - CherryStudio Dark Theme
+# Black.css - CherryStudio Seele Theme
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![GitHub release](https://img.shields.io/github/release/username/Black.css.svg)]()
