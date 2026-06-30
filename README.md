@@ -8,7 +8,7 @@
 
 ### 方法一：直接下载
 
-1. 下载 [Black.css](./Black.css) 文件
+1. 下载 Seele.css文件
 2. 打开 Cherry Studio 设置
 3. 进入「显示设置」→「自定义CSS」
 4. 导入或粘贴CSS内容
